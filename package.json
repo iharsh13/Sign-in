@@ -13,6 +13,8 @@
     "bcrypt": "^5.0.1",
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "mongoose": "^5.12.10"
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.10",
+    "popups": "^1.1.3"
   }
 }

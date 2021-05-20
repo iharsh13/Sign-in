@@ -2,7 +2,6 @@ const form = document.getElementById('reg-form')
 form.addEventListener('submit', registerUser)
 
 async function registerUser(event) {
-    console.log("submitted")
     event.preventDefault()
     const username = document.getElementById('username').value
     const password = document.getElementById('password').value
